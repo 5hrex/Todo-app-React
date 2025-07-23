@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./btn";
 
 function TodoApp() {
   const [task, setTask] = useState("");
